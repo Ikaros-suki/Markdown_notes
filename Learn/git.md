@@ -2,6 +2,8 @@
 
 ## [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
 
+### [Git命令](https://liaoxuefeng.gitee.io/resource.liaoxuefeng.com/git/git-cheat-sheet.pdf)
+
 
 ### 创建版本库
 1. 在某个文件夹内打开 git bash
