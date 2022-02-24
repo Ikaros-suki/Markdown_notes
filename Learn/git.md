@@ -1,3 +1,8 @@
+# 参考教程
+
+## [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
+
+
 ### 创建版本库
 1. 在某个文件夹内打开 git bash
 2. `git init`
