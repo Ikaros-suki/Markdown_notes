@@ -192,5 +192,16 @@
 >
 >命令`git push origin :refs/tags/<tagname>`可以删除一个远程标签。
 
+---
+
+# 线上库的命名
+
+>我们先删除已关联的名为origin的远程库：
+>
+>`git remote rm origin`
+>然后，先关联GitHub的远程库：
+>
+>`git remote add github git@github.com:michaelliao/learngit.git`
+>注意，远程库的名称叫github，不叫origin了。
 
 
