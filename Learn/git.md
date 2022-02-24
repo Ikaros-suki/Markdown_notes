@@ -6,7 +6,7 @@
 
 ---
 
-## [Markdown & Github 教程](https://orangex4.cool/post/github-tutorials-for-beginner/)
+## [Github 教程](https://orangex4.cool/post/github-tutorials-for-beginner/)
 
 ---
 
