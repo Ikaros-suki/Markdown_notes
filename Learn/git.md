@@ -4,6 +4,12 @@
 
 ### [Git命令](https://liaoxuefeng.gitee.io/resource.liaoxuefeng.com/git/git-cheat-sheet.pdf)
 
+---
+
+## [Markdown & Github 教程](https://orangex4.cool/post/github-tutorials-for-beginner/)
+
+---
+
 
 ### 创建版本库
 1. 在某个文件夹内打开 git bash
