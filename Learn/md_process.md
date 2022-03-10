@@ -1,21 +1,21 @@
 [TOC]
 
 
-## [²Î¿¼½Ì³Ì](https://orangex4.cool/post/notes-in-markdown/#markdown-%E8%BF%9B%E9%98%B6-%E9%80%89%E7%9C%8B)
+## [å‚è€ƒæ•™ç¨‹](https://orangex4.cool/post/notes-in-markdown/#markdown-%E8%BF%9B%E9%98%B6-%E9%80%89%E7%9C%8B)
 
 ---
 
-# Markdown ½ø½×
+# Markdown è¿›é˜¶
 
 ---
 
-### ×Ô¶¯Ä¿Â¼
+### è‡ªåŠ¨ç›®å½•
 
 <!--[TOC]-->
 
-### »­Í¼
+### ç”»å›¾
 
-#### Á÷³ÌÍ¼
+#### æµç¨‹å›¾
 
 ```mermaid
 graph LR
@@ -32,7 +32,7 @@ graph LR
 '''
 ```
 
-#### Ê±ĞòÍ¼
+#### æ—¶åºå›¾
 
 ```wavedrom
 { signal:[
@@ -40,7 +40,7 @@ graph LR
 ]}
 ```
 
-#### ±ıÍ¼
+#### é¥¼å›¾
 
 ```mermaid
 pie
@@ -52,7 +52,7 @@ pie
  "tiger" : 15
  ```
 
- #### ¸ÊÌØÍ¼
+ #### ç”˜ç‰¹å›¾
  ```mermaid
  gantt
        dateFormat  YYYY-MM-DD

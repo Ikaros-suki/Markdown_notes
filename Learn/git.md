@@ -1,266 +1,114 @@
-- [²Î¿¼½Ì³Ì](#²Î¿¼½Ì³Ì)
-  - [Git½Ì³Ì](#git½Ì³Ì)
-    - [GitÃüÁî](#gitÃüÁî)
-  - [Github ½Ì³Ì](#github-½Ì³Ì)
-    - [´´½¨°æ±¾¿â](#´´½¨°æ±¾¿â)
-- [Ê±¹â»ú´©Ëó](#Ê±¹â»ú´©Ëó)
-  - [°æ±¾»ØÍË](#°æ±¾»ØÍË)
-  - [¹¤×÷ÇøÓëÔÝ»ºÇø](#¹¤×÷ÇøÓëÔÝ»ºÇø)
-      - [¹¤×÷Çø](#¹¤×÷Çø)
-      - [°æ±¾¿â](#°æ±¾¿â)
-  - [¹ÜÀíÐÞ¸Ä](#¹ÜÀíÐÞ¸Ä)
-  - [³·ÏúÐÞ¸Ä](#³·ÏúÐÞ¸Ä)
-  - [É¾³ýÎÄ¼þ](#É¾³ýÎÄ¼þ)
-- [Ô¶³Ì²Ö¿â](#Ô¶³Ì²Ö¿â)
-  - [Ìí¼ÓÔ¶³Ì¿â](#Ìí¼ÓÔ¶³Ì¿â)
-  - [´ÓÔ¶³Ì¿â¿ËÂ¡](#´ÓÔ¶³Ì¿â¿ËÂ¡)
-- [·ÖÖ§¹ÜÀí](#·ÖÖ§¹ÜÀí)
-  - [´´½¨ÓëºÏ²¢·ÖÖ§](#´´½¨ÓëºÏ²¢·ÖÖ§)
-  - [³åÍ»½â¾ö](#³åÍ»½â¾ö)
-- [±êÇ©¹ÜÀí](#±êÇ©¹ÜÀí)
-  - [´´½¨±êÇ©](#´´½¨±êÇ©)
-  - [²Ù×÷±êÇ©](#²Ù×÷±êÇ©)
-- [ÏßÉÏ¿âµÄÃüÃû](#ÏßÉÏ¿âµÄÃüÃû)
-- [É¾³ýÏßÉÏ¿âµÄÎÄ¼þ](#É¾³ýÏßÉÏ¿âµÄÎÄ¼þ)
+- [è®¡ç®—æœºç¡¬ä»¶çš„æ“ä½œ](#è®¡ç®—æœºç¡¬ä»¶çš„æ“ä½œ)
+- [è®¡ç®—æœºç¡¬ä»¶çš„æ“ä½œæ•°](#è®¡ç®—æœºç¡¬ä»¶çš„æ“ä½œæ•°)
+  - [å­˜å‚¨å™¨æ“ä½œæ•°](#å­˜å‚¨å™¨æ“ä½œæ•°)
+  - [å¸¸æ•°(ç«‹å³æ“ä½œæ•°)](#å¸¸æ•°ç«‹å³æ“ä½œæ•°)
+- [è®¡ç®—æœºä¸­æŒ‡ä»¤çš„è¡¨ç¤º](#è®¡ç®—æœºä¸­æŒ‡ä»¤çš„è¡¨ç¤º)
+- [é€»è¾‘è¿ç®—](#é€»è¾‘è¿ç®—)
+- [åˆ†æ”¯æŒ‡ä»¤](#åˆ†æ”¯æŒ‡ä»¤)
+  - [å¾ªçŽ¯](#å¾ªçŽ¯)
+- [è®¡ç®—æœºç¡¬ä»¶çš„è¿‡ç¨‹æ”¯æŒ](#è®¡ç®—æœºç¡¬ä»¶çš„è¿‡ç¨‹æ”¯æŒ)
+  - [åµŒå¥—è¿‡ç¨‹](#åµŒå¥—è¿‡ç¨‹)
+- [äººæœºäº¤äº’](#äººæœºäº¤äº’)
+- [å¯¹ 32 ä½ç«‹å³æ•°çš„ MIPS ç¼–å€å’Œå¯»å€](#å¯¹-32-ä½ç«‹å³æ•°çš„-mips-ç¼–å€å’Œå¯»å€)
+- [æ€»ç»“](#æ€»ç»“)
+
+## è®¡ç®—æœºç¡¬ä»¶çš„æ“ä½œ
+1. ç®€å•æºè‡ªè§„æ•´
+
+## è®¡ç®—æœºç¡¬ä»¶çš„æ“ä½œæ•°
+2. è¶Šå°‘è¶Šå¿« (æŒ‡å¯„å­˜å™¨ä¸ªæ•°, ä¸ç»å¯¹)
+
+### å­˜å‚¨å™¨æ“ä½œæ•°
+* lw å–å­—, sw å­˜å‚¨å­—
+* å­˜å‚¨å™¨ä¸­åœ°å€çš„åç§»é‡ä¸º 4 çš„å€æ•°, èµ·å§‹åœ°å€ä¹Ÿä¸º 4 çš„å€æ•°
+
+### å¸¸æ•°(ç«‹å³æ“ä½œæ•°)
+3. åŠ é€Ÿæ‰§è¡Œå¸¸ç”¨æ“ä½œ
+
+## è®¡ç®—æœºä¸­æŒ‡ä»¤çš„è¡¨ç¤º
+* æŒ‡ä»¤æ ¼å¼ : 6-5-5-5-5-6
+* p51 : op - rs - rt - -rd - shamt - funct (R)
+
+4. ä¼˜ç§€çš„è®¾è®¡éœ€è¦é€‚å½“çš„æŠ˜ä¸­
+
+* I : op - rs - rt - constant or address
+  *   6 - 5 - 5 - 16
+
+* sw å’Œ lw éƒ½æ˜¯å‰ä¸ºå¯„å­˜å™¨, åŽä¸ºå­˜å‚¨å™¨
+
+## é€»è¾‘è¿ç®—
 
 
+## åˆ†æ”¯æŒ‡ä»¤
+```C
+if(i == j) 
+  f = g + h;
+else
+  f = g - h;
+```
+* ç¿»è¯‘æ—¶ä½¿ç”¨'go'è·³è¿‡==
+```
+bne $s3.$s4.Else  # ç¬¬ä¸€æ­¥ä½¿ç”¨ bne å…ˆåˆ¤æ–­å¦çš„æ¡ä»¶
+add $s0.$s1.$s2
+j Exit
+Else : sub $s0.$s1.$s2
+Exit:
+```
 
-# ²Î¿¼½Ì³Ì
+### å¾ªçŽ¯
+```c
+while(save[i] == k)
+  i += 1;
+```
 
-## [Git½Ì³Ì](https://www.liaoxuefeng.com/wiki/896043488029600)
+```c
+Loop: sll  $t1.$s3.2  // å°† i å·¦ç§»ä¸¤ä½å¯„å­˜åˆ° $t1
 
-### [GitÃüÁî](https://liaoxuefeng.gitee.io/resource.liaoxuefeng.com/git/git-cheat-sheet.pdf)
+```
 
----
-
-## [Github ½Ì³Ì](https://orangex4.cool/post/github-tutorials-for-beginner/)
-
----
-
-
-### ´´½¨°æ±¾¿â
-1. ÔÚÄ³¸öÎÄ¼þ¼ÐÄÚ´ò¿ª git bash
-2. `git init`
-3. `git add *filename.filetype*`
-   (¿ÉÒÔÒ»´Î add ¶à¸ö)
-4. `git commit -m *"xxx (ÊäÈëÄãÏëÐ´µÄ×¢ÊÍ)"*`
-
-![](image/2022-02-23-21-18-10.png)
-
----
-
-# Ê±¹â»ú´©Ëó
-
-* ÒªËæÊ±ÕÆÎÕ¹¤×÷ÇøµÄ×´Ì¬£¬
-  Ê¹ÓÃ`git status`ÃüÁî¡£
-
-
-* Èç¹û`git status`¸æËßÄãÓÐÎÄ¼þ±»ÐÞ¸Ä¹ý£¬
-  ÓÃ`git diff`¿ÉÒÔ²é¿´ÐÞ¸ÄÄÚÈÝ¡£
-
----
-
-## °æ±¾»ØÍË
-
-* HEADÖ¸ÏòµÄ°æ±¾¾ÍÊÇµ±Ç°°æ±¾£¬Òò´Ë£¬GitÔÊÐíÎÒÃÇÔÚ°æ±¾µÄÀúÊ·Ö®¼ä´©Ëó£¬Ê¹ÓÃÃüÁî`git reset --hard commit_id`¡£
-
-* ´©ËóÇ°£¬ÓÃ`git log`¿ÉÒÔ²é¿´Ìá½»ÀúÊ·£¬ÒÔ±ãÈ·¶¨Òª»ØÍËµ½ÄÄ¸ö°æ±¾¡£
-
-* ÒªÖØ·µÎ´À´£¬ÓÃ`git reflog`²é¿´ÃüÁîÀúÊ·£¬ÒÔ±ãÈ·¶¨Òª»Øµ½Î´À´µÄÄÄ¸ö°æ±¾¡£
-
----
-
-## ¹¤×÷ÇøÓëÔÝ»ºÇø
-
-#### ¹¤×÷Çø
-
-* ¾ÍÊÇ git ¿â ËùÔÚµÄÎÄ¼þ¼Ð
-
-#### °æ±¾¿â
-
-* ¹¤×÷ÇøÎÄ¼þ¼ÐÄÚµÄ .git ÎÄ¼þ¼Ð
-* `git add` ¾ÍÊÇ½«ÎÄ¼þÐÞ¸ÄÌí¼Óµ½ÔÝ´æÇø
-* `git commit` °ÑÔÝ´æÇøµÄËùÓÐÎÄ¼þÌá½»µ½µ±Ç°·ÖÖ§
-  
----
-
-## ¹ÜÀíÐÞ¸Ä
-
-* Ã¿´ÎÐÞ¸Ä£¬Èç¹û²»ÓÃ`git add`µ½ÔÝ´æÇø£¬ÄÇ¾Í²»»á¼ÓÈëµ½`commit`ÖÐ¡£
-  
----
-
-## ³·ÏúÐÞ¸Ä
-
-* ÐÞ¸ÄÍêÎÄ¼þ, »¹Ã»ÓÐ `add` Ê±, ¿ÉÒÔÓÃ `git restore <file>`
-* `add` Ö®ºó, ¿ÉÒÔÊ¹ÓÃ `git restore --staged <file>`
-* ***ÉÆÓÃ `git status`***
+* slt , å°äºŽåˆ™ç½®ä¸€
+* slt==i== , ç«‹å³æ•°ç‰ˆæœ¬
 
 ---
 
-## É¾³ýÎÄ¼þ
+## è®¡ç®—æœºç¡¬ä»¶çš„è¿‡ç¨‹æ”¯æŒ
+* jal : è·³è½¬åˆ°æŸä¸ªåœ°å€çš„åŒæ—¶å°†ä¸‹ä¸€æ¡æŒ‡ä»¤çš„åœ°å€ä¿å­˜åœ¨ $ra
+* jr $ra : å¯„å­˜å™¨è·³è½¬æŒ‡ä»¤
 
-* `git rm` ÓÃÓÚÉ¾³ý git ¿âÖÐµÄÎÄ¼þ
+### åµŒå¥—è¿‡ç¨‹
+* æ³¨æ„ç†è§£ p65
 
----
----
+## äººæœºäº¤äº’
+* lb è¯»å–å­—èŠ‚
+* sb ä¿å­˜å­—èŠ‚
 
+## å¯¹ 32 ä½ç«‹å³æ•°çš„ MIPS ç¼–å€å’Œå¯»å€
+* lui å–ç«‹å³æ•°é«˜ä½(16ä½)
+* ori å–ç«‹å³æ•°åœ°ä½(16ä½)
 
-# Ô¶³Ì²Ö¿â
+```
+beq $s0.$s1.L1
 
-ÔÚ `cmd` ÖÐÊ¹ÓÃ 
+bne $s0.$s1.L2
+j L1
+L2:
+```
+* ä¸‹é¢æä¾›äº†å¤§å¾—å¤šçš„åˆ†æ”¯è½¬ç§»è·ç¦»
 
-`$ ssh-keygen -t rsa -C "youremail@example.com"`
+* p78 è¡¨æ ¼
 
-´´½¨ ssh , pub Îª¹«Ô¿
+* cè¯­è¨€ä¹‹ä¸­çš„ sort çš„ MIPS æ±‡ç¼–è¯­è¨€
+* P94
 
----
-
-## Ìí¼ÓÔ¶³Ì¿â
-
-* Òª¹ØÁªÒ»¸öÔ¶³Ì¿â£¬Ê¹ÓÃÃüÁî`git remote add origin git@server-name:path/repo-name.git`£»
-  
-* ¸ÄÎªÊ¹ÓÃ `git remote add origin https`
-
-* ¹ØÁªÒ»¸öÔ¶³Ì¿âÊ±±ØÐë¸øÔ¶³Ì¿âÖ¸¶¨Ò»¸öÃû×Ö£¬originÊÇÄ¬ÈÏÏ°¹ßÃüÃû£»
-
-* ¹ØÁªºó£¬Ê¹ÓÃÃüÁî`git push -u origin master`**µÚÒ»´Î**ÍÆËÍmaster·ÖÖ§µÄËùÓÐÄÚÈÝ£»
-
-* ´Ëºó£¬Ã¿´Î±¾µØÌá½»ºó£¬Ö»ÒªÓÐ±ØÒª£¬¾Í¿ÉÒÔÊ¹ÓÃÃüÁî`git push origin master`ÍÆËÍ×îÐÂÐÞ¸Ä£»
-
-* **==SSL certificate problem: unable to get local issuer certificate==
-    ½â¾ö·½·¨ : `$ git config --global http.sslverify false`**
-
-
+* å­—èŠ‚å¯»å€çš„æœºå™¨ä¸­, ==è¿žç»­çš„å­—åœ°å€ç›¸å·® 4==
 
 ---
 
-## ´ÓÔ¶³Ì¿â¿ËÂ¡
-
-* Òª¿ËÂ¡Ò»¸ö²Ö¿â£¬Ê×ÏÈ±ØÐëÖªµÀ²Ö¿âµÄµØÖ·£¬È»ºóÊ¹ÓÃ`git clone`ÃüÁî¿ËÂ¡¡£
-
-* GitÖ§³Ö¶àÖÖÐ­Òé£¬°üÀ¨https£¬µ«sshÐ­ÒéËÙ¶È×î¿ì¡£
-
-
----
----
-
-# ·ÖÖ§¹ÜÀí
-
-* ·ÖÖ§ÔÚÊµ¼ÊÖÐÓÐÊ²Ã´ÓÃÄØ£¿¼ÙÉèÄã×¼±¸¿ª·¢Ò»¸öÐÂ¹¦ÄÜ£¬µ«ÊÇÐèÒªÁ½ÖÜ²ÅÄÜÍê³É£¬µÚÒ»ÖÜÄãÐ´ÁË50%µÄ´úÂë£¬Èç¹ûÁ¢¿ÌÌá½»£¬ÓÉÓÚ´úÂë»¹Ã»Ð´Íê£¬²»ÍêÕûµÄ´úÂë¿â»áµ¼ÖÂ±ðÈË²»ÄÜ¸É»îÁË¡£Èç¹ûµÈ´úÂëÈ«²¿Ð´ÍêÔÙÒ»´ÎÌá½»£¬ÓÖ´æÔÚ¶ªÊ§Ã¿Ìì½ø¶ÈµÄ¾Þ´ó·çÏÕ¡£
-
-* ÏÖÔÚÓÐÁË·ÖÖ§£¬¾Í²»ÓÃÅÂÁË¡£Äã´´½¨ÁËÒ»¸öÊôÓÚÄã×Ô¼ºµÄ·ÖÖ§£¬±ðÈË¿´²»µ½£¬»¹¼ÌÐøÔÚÔ­À´µÄ·ÖÖ§ÉÏÕý³£¹¤×÷£¬¶øÄãÔÚ×Ô¼ºµÄ·ÖÖ§ÉÏ¸É»î£¬ÏëÌá½»¾ÍÌá½»£¬Ö±µ½¿ª·¢Íê±Ïºó£¬ÔÙÒ»´ÎÐÔºÏ²¢µ½Ô­À´µÄ·ÖÖ§ÉÏ£¬ÕâÑù£¬¼È°²È«£¬ÓÖ²»Ó°Ïì±ðÈË¹¤×÷¡£
+## æ€»ç»“
+> ![](image/2022-03-09-21-14-48.png)
+> ![](image/2022-03-09-21-15-08.png)
+> ![](image/2022-03-09-21-16-44.png)
 
 ---
 
-##  ´´½¨ÓëºÏ²¢·ÖÖ§
->
->* `HEAD`ÑÏ¸ñÀ´Ëµ²»ÊÇÖ¸ÏòÌá½»£¬¶øÊÇÖ¸Ïò`master`£¬`master`²ÅÊÇÖ¸ÏòÌá½»µÄ£¬ËùÒÔ£¬`HEAD`Ö¸ÏòµÄ¾ÍÊÇµ±Ç°·ÖÖ§¡£
->
->![](image/2022-02-24-17-27-02.png)
-
-
-
->* µ±ÎÒÃÇ´´½¨ÐÂµÄ·ÖÖ§£¬ÀýÈç`dev`Ê±£¬GitÐÂ½¨ÁËÒ»¸öÖ¸Õë½Ð`dev`£¬Ö¸Ïò`master`ÏàÍ¬µÄÌá½»£¬ÔÙ°Ñ`HEAD`Ö¸Ïò`dev`£¬¾Í±íÊ¾µ±Ç°·ÖÖ§ÔÚ`dev`ÉÏ£º
->
->![](image/2022-02-24-17-32-41.png)
-
->* ´ÓÏÖÔÚ¿ªÊ¼£¬¶Ô¹¤×÷ÇøµÄÐÞ¸ÄºÍÌá½»¾ÍÊÇÕë¶Ô`dev`·ÖÖ§ÁË£¬±ÈÈçÐÂÌá½»Ò»´Îºó£¬`dev`Ö¸ÕëÍùÇ°ÒÆ¶¯Ò»²½£¬¶ø`master`Ö¸Õë²»±ä£º
->
->![](image/2022-02-24-17-34-17.png)
-
->* ¼ÙÈçÎÒÃÇÔÚ`dev`ÉÏµÄ¹¤×÷Íê³ÉÁË£¬¾Í¿ÉÒÔ°Ñ`dev`ºÏ²¢µ½`master`ÉÏ¡£GitÔõÃ´ºÏ²¢ÄØ£¿×î¼òµ¥µÄ·½·¨£¬¾ÍÊÇÖ±½Ó°Ñ`master`Ö¸Ïò`dev`µÄµ±Ç°Ìá½»£¬¾ÍÍê³ÉÁËºÏ²¢£º
->
->![](image/2022-02-24-17-36-01.png)
-
->* ºÏ²¢Íê·ÖÖ§ºó£¬ÉõÖÁ¿ÉÒÔÉ¾³ý`dev`·ÖÖ§¡£É¾³ý`dev`·ÖÖ§¾ÍÊÇ°Ñ`dev`Ö¸Õë¸øÉ¾µô£¬É¾µôºó£¬ÎÒÃÇ¾ÍÊ£ÏÂÁËÒ»Ìõ`master`·ÖÖ§£º
->
->![](image/2022-02-24-17-37-28.png)
-
-
->**Git¹ÄÀø´óÁ¿Ê¹ÓÃ·ÖÖ§£º**
->
->²é¿´·ÖÖ§£º`git branch`
->
->´´½¨·ÖÖ§£º`git branch <name>`
->
->ÇÐ»»·ÖÖ§£º`git checkout <name>`»òÕß`git switch <name>`
->
->´´½¨+ÇÐ»»·ÖÖ§£º`git checkout -b <name>`»òÕß`git switch -c <name>`
->
->ºÏ²¢Ä³·ÖÖ§µ½µ±Ç°·ÖÖ§£º`git merge <name>`
->
->É¾³ý·ÖÖ§£º`git branch -d <name>`
-
----
-
-## ³åÍ»½â¾ö
-
->µ±GitÎÞ·¨×Ô¶¯ºÏ²¢·ÖÖ§Ê±£¬¾Í±ØÐëÊ×ÏÈ½â¾ö³åÍ»¡£½â¾ö³åÍ»ºó£¬ÔÙÌá½»£¬ºÏ²¢Íê³É¡£
->
->½â¾ö³åÍ»¾ÍÊÇ°ÑGitºÏ²¢Ê§°ÜµÄÎÄ¼þÊÖ¶¯±à¼­ÎªÎÒÃÇÏ£ÍûµÄÄÚÈÝ£¬ÔÙÌá½»¡£
->
->ÓÃ`git log --graph`ÃüÁî¿ÉÒÔ¿´µ½·ÖÖ§ºÏ²¢Í¼¡£
-
->`git log --graph --pretty=oneline --abbrev-commit`
-
-![](image/2022-02-24-20-47-49.png)
-
-
----
-
-
-# ±êÇ©¹ÜÀí
-
-## ´´½¨±êÇ©
-
->ÃüÁî`git tag <tagname>`ÓÃÓÚÐÂ½¨Ò»¸ö±êÇ©£¬Ä¬ÈÏÎª`HEAD`£¬Ò²¿ÉÒÔÖ¸¶¨Ò»¸ö`commit id`£»
->
->ÃüÁî`git tag -a <tagname> -m "blablabla..."`¿ÉÒÔÖ¸¶¨±êÇ©ÐÅÏ¢£»
->
->ÃüÁî`git tag`¿ÉÒÔ²é¿´ËùÓÐ±êÇ©¡£
-
----
-
-## ²Ù×÷±êÇ©
-
->ÃüÁî`git push origin <tagname>`¿ÉÒÔÍÆËÍÒ»¸ö±¾µØ±êÇ©£»
->
->ÃüÁî`git push origin --tags`¿ÉÒÔÍÆËÍÈ«²¿Î´ÍÆËÍ¹ýµÄ±¾µØ±êÇ©£»
->
->ÃüÁî`git tag -d <tagname>`¿ÉÒÔÉ¾³ýÒ»¸ö±¾µØ±êÇ©£»
->
->ÃüÁî`git push origin :refs/tags/<tagname>`¿ÉÒÔÉ¾³ýÒ»¸öÔ¶³Ì±êÇ©¡£
-
----
-
-# ÏßÉÏ¿âµÄÃüÃû
-
->ÎÒÃÇÏÈÉ¾³ýÒÑ¹ØÁªµÄÃûÎªoriginµÄÔ¶³Ì¿â£º
->
->`git remote rm origin`
->È»ºó£¬ÏÈ¹ØÁªGitHubµÄÔ¶³Ì¿â£º
->
->`git remote add github git@github.com:michaelliao/learngit.git`
->×¢Òâ£¬Ô¶³Ì¿âµÄÃû³Æ½Ðgithub£¬²»½ÐoriginÁË¡£
-
----
-
-# É¾³ýÏßÉÏ¿âµÄÎÄ¼þ
->
->£¨1£©Ô¤ÀÀ½«ÒªÉ¾³ýµÄÎÄ¼þ£¨Èç¹û²»Çå³þ¸ÃÄ¿Â¼ÏÂÊÇ·ñ´æÔÚ²»Ó¦¸ÃÉ¾³ýµÄÎÄ¼þ£©
->
->`git rm -r -n --cached` ÎÄ¼þ/ÎÄ¼þ¼ÐÃû³Æ 
->
->¼ÓÉÏ -n Õâ¸ö²ÎÊý£¬Ö´ÐÐÃüÁîÊ±£¬ÊÇ²»»áÉ¾³ýÈÎºÎÎÄ¼þ£¬¶øÊÇÕ¹Ê¾´ËÃüÁîÒªÉ¾³ýµÄÎÄ¼þÁÐ±íÔ¤ÀÀ¡£
-
->£¨2£©È·¶¨ÎÞÎóºóÉ¾³ýÎÄ¼þ£¨²»»áÉ¾³ý±¾µØµÄÎÄ¼þ»òÎÄ¼þ¼Ð£©
->
->`git rm -r --cached` ÎÄ¼þ/ÎÄ¼þ¼ÐÃû³Æ
-
->£¨3£©Ìá½»µ½±¾µØ²¢ÍÆËÍµ½Ô¶³Ì·þÎñÆ÷
->
->`git commit -m "Ìá½»ËµÃ÷"`
->`git push origin master`
->
-
+> ![](image/2022-03-09-21-16-12.png)
